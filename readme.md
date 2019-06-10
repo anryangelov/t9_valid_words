@@ -1,5 +1,4 @@
 ```
-
 python valid_words_1.py 2283
 cate
 cave
@@ -9,7 +8,6 @@ python valid_words_2.py 2283
 bate
 cave
 cate
-
 
 It is provided two solutions.
 
